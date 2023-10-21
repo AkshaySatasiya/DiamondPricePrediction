@@ -159,3 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+#Ignoreing model.pkl file because it is way too big that github is not able to upload it 
+/artifacts/model.pkl
+/artifacts/preprocessor.pkl
